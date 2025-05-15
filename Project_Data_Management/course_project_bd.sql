@@ -1,4 +1,0 @@
-USE course_project;
-
-
-
